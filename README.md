@@ -1,8 +1,8 @@
 # logica-programacao
-pratique lógica de programação
+pratique logica de programacoo
 
-Curso de JavaScript e HTML: desenvolva um jogo e pratique lógica de programação
+Curso de JavaScript e HTML: desenvolva um jogo e pratique logica de programacao
 
   Trilha Desenvolve - Full Stack
-INSTITUTO GRUPO BOTICÁRIO | Cursos Alura 
+INSTITUTO GRUPO BOTICARIO | Cursos Alura 
 🚀
